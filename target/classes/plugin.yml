@@ -1,0 +1,10 @@
+name: DragonFight
+version: 1.0
+main: me.alivesteve.dragonfight.DragonFight
+api-version: 1.16
+authors: [ AliveSteve ]
+description: Buff Dragon Health
+commands:
+  dragonfight:
+    usage: /<command>
+    description: Dragon Fight Debug
