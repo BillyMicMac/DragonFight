@@ -7,4 +7,4 @@ description: Buff Dragon Health
 commands:
   dragonfight:
     usage: /<command>
-    description: Dragon Fight Debug
+    description: Dragon Fight
